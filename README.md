@@ -1,14 +1,14 @@
-🌱 Projeto Sementário
-Sementário é um projeto pessoal que registra e analisa dados de sementes que estou germinando em casa. A ideia é aplicar, de forma prática e útil, conhecimentos em engenharia de dados com ferramentas reais. Todo o pipeline foi pensado para ser funcional localmente, lidando com dados reais do meu dia a dia.
+# 🌱 Projeto Sementário
+## Sementário é um projeto pessoal que registra e analisa dados de sementes que estou germinando em casa. A ideia é aplicar, de forma prática e útil, conhecimentos em engenharia de dados com ferramentas reais. Todo o pipeline foi pensado para ser funcional localmente, lidando com dados reais do meu dia a dia.
 
-📌 Objetivo
-- Automatizar a coleta, tratamento, armazenamento e visualização de dados relacionados à germinação de sementes, permitindo análises como:
-- Taxa de germinação por tipo de semente
-- Influência da estação e temperatura
-- Tempo médio até a germinação
-- Comparação entre marcas e métodos de plantio
+## 📌 Objetivo
+### - Automatizar a coleta, tratamento, armazenamento e visualização de dados relacionados à germinação de sementes, permitindo análises como:
+### - Taxa de germinação por tipo de semente
+### - Influência da estação e temperatura
+### - Tempo médio até a germinação
+### - Comparação entre marcas e métodos de plantio
 
-🧱 Arquitetura do Pipeline
+## 🧱 Arquitetura do Pipeline
 
 ![image](https://github.com/user-attachments/assets/1aeff09c-87c9-4174-ad06-a23031ce9417)
 
