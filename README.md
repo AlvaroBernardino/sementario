@@ -1,7 +1,7 @@
-í¼± Projeto SementÃ¡rio
+ğŸŒ± Projeto SementÃ¡rio
 SementÃ¡rio Ã© um projeto pessoal que registra e analisa dados de sementes que estou germinando em casa. A ideia Ã© aplicar, de forma prÃ¡tica e Ãºtil, conhecimentos em engenharia de dados com ferramentas reais. Todo o pipeline foi pensado para ser funcional localmente, lidando com dados reais do meu dia a dia.
 
-í³Œ Objetivo
+ğŸ“Œ Objetivo
 Automatizar a coleta, tratamento, armazenamento e visualizaÃ§Ã£o de dados relacionados Ã  germinaÃ§Ã£o de sementes, permitindo anÃ¡lises como:
 
 Taxa de germinaÃ§Ã£o por tipo de semente
@@ -12,26 +12,11 @@ Tempo mÃ©dio atÃ© a germinaÃ§Ã£o
 
 ComparaÃ§Ã£o entre marcas e mÃ©todos de plantio
 
-í·± Arquitetura do Pipeline
-text
-Copiar
-Editar
-[ Google Sheets ]         [ API Clima ]
-       |                        |
-       +------------------------+
-                 |
-        [ IngestÃ£o: gdown + requests ]
-                 |
-        [ Bronze - /data/raw ]
-                 |
-    [ Silver - Limpeza (Python + Pandas) ]
-                 |
- [ Gold - SQLite3 (Modelo Snowflake) ]
-                 |
-     [ Streamlit Dashboard ]
-                 |
-         [ Airflow Orquestra ]
-í·° Tecnologias e Ferramentas
+ğŸ§± Arquitetura do Pipeline
+
+![image](https://github.com/user-attachments/assets/1aeff09c-87c9-4174-ad06-a23031ce9417)
+
+ğŸ§° Tecnologias e Ferramentas
 Python
 
 Pandas
@@ -52,9 +37,9 @@ API de clima (OpenWeatherMap ou Visual Crossing)
 
 Git/GitHub
 
-íº§ Status
-í¿¢ Em desenvolvimento
-í¾¯ Etapas atuais:
+ğŸš§ Status
+ğŸŸ¢ Em desenvolvimento
+ğŸ¯ Etapas atuais:
 
  DefiniÃ§Ã£o da arquitetura
 
@@ -66,6 +51,10 @@ Git/GitHub
 
  OrquestraÃ§Ã£o com Airflow
 
-í³¬ Contato
+ğŸ“ LicenÃ§a
+Este projeto estÃ¡ licenciado sob a MIT License.
+
+ğŸ“¬ Contato
 Se quiser trocar uma ideia sobre o projeto ou algo relacionado:
 [Seu Nome] â€” LinkedIn | GitHub
+
