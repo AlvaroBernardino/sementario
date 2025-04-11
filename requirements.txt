@@ -1,0 +1,7 @@
+pandas
+requests
+gdown
+pydrive
+streamlit
+apache-airflow
+python-dotenv
