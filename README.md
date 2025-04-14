@@ -27,6 +27,7 @@
 🚧 Status
 🟢 Em desenvolvimento
 
+<<<<<<< HEAD
 🎯 Diário de desenvolvimento:
 
 Dia 1:
@@ -39,3 +40,17 @@ Dia 1:
 📬 Contato
 Se quiser trocar uma ideia sobre o projeto ou algo relacionado:
 Álvaro Bernardino — [LinkedIn](linkedin.com/in/alvaro-bernardino/) | [GitHub](https://github.com/AlvaroBernardino)
+=======
+🎯 Etapas atuais:
+
+- Definição da arquitetura
+- Configuração da ingestão automatizada
+- Criação do modelo Snowflake em SQLite
+- Desenvolvimento do dashboard
+- Orquestração com Airflow
+
+📬 Contato
+Se quiser trocar uma ideia sobre o projeto ou algo relacionado:
+Álvaro Bernardino — [LinkedIn](linkedin.com/in/alvaro-bernardino/) | [GitHub](https://github.com/AlvaroBernardino)
+
+>>>>>>> 74d823650618322b89ec37ef6672f001746bd65d
