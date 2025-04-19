@@ -27,7 +27,6 @@
 🚧 Status
 🟢 Em desenvolvimento
 
-<<<<<<< HEAD
 🎯 Diário de desenvolvimento:
 
 Dia 1:
@@ -36,11 +35,6 @@ Dia 1:
         - Criação de mock data e script para extração do csv do [Google Sheets](https://docs.google.com/spreadsheets/d/1m2wNsm5WzC0PaVPMELhi5flYXs4n2Ck5m0_JuQqI6tI)
         - Criaçao da camada bronze
 
-
-📬 Contato
-Se quiser trocar uma ideia sobre o projeto ou algo relacionado:
-Álvaro Bernardino — [LinkedIn](linkedin.com/in/alvaro-bernardino/) | [GitHub](https://github.com/AlvaroBernardino)
-=======
 🎯 Etapas atuais:
 
 - Definição da arquitetura
@@ -52,5 +46,3 @@ Se quiser trocar uma ideia sobre o projeto ou algo relacionado:
 📬 Contato
 Se quiser trocar uma ideia sobre o projeto ou algo relacionado:
 Álvaro Bernardino — [LinkedIn](linkedin.com/in/alvaro-bernardino/) | [GitHub](https://github.com/AlvaroBernardino)
-
->>>>>>> 74d823650618322b89ec37ef6672f001746bd65d
