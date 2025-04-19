@@ -8,11 +8,11 @@
 - Tempo médio até a germinação
 - Comparação entre marcas e métodos de plantio
 
-🧱 Arquitetura do Pipeline
+## 🧱 Arquitetura do Pipeline
 
 ![image](https://github.com/user-attachments/assets/1aeff09c-87c9-4174-ad06-a23031ce9417)
 
-🧰 Tecnologias e Ferramentas
+## 🧰 Tecnologias e Ferramentas
 - Python
 - Pandas
 - SQLite3
@@ -24,10 +24,10 @@
 - API de clima (OpenWeatherMap ou Visual Crossing)
 - Git/GitHub
 
-🚧 Status
+## 🚧 Status
 🟢 Em desenvolvimento
 
-🎯 Diário de desenvolvimento:
+## 🎯 Diário de desenvolvimento:
 
 Dia 1:
         - Definição do formato da tabela de input
@@ -35,7 +35,7 @@ Dia 1:
         - Criação de mock data e script para extração do csv do [Google Sheets](https://docs.google.com/spreadsheets/d/1m2wNsm5WzC0PaVPMELhi5flYXs4n2Ck5m0_JuQqI6tI)
         - Criaçao da camada bronze
 
-🎯 Etapas atuais:
+## 🎯 Etapas atuais:
 
 - Definição da arquitetura
 - Configuração da ingestão automatizada
@@ -43,6 +43,6 @@ Dia 1:
 - Desenvolvimento do dashboard
 - Orquestração com Airflow
 
-📬 Contato
+## 📬 Contato
 Se quiser trocar uma ideia sobre o projeto ou algo relacionado:
 Álvaro Bernardino — [LinkedIn](linkedin.com/in/alvaro-bernardino/) | [GitHub](https://github.com/AlvaroBernardino)
